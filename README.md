@@ -13,13 +13,13 @@ to install the packages in [`requirements.txt`](requirements.txt)
 ## Important Information
 
 ### Due Date
-This assignment is due Thursday, November 3 at 12am (midnight) Chicago time.
+This assignment is due Thursday, November 3 at 11:59 PM (midnight) Chicago time.
 
 ### Grading Rubric
 
 The following rubric will be used for grading.
 
-|  Total |
+|  | Total |
 |:-:|:-:|
 | Problem 0 | /25 |
 | Problem 1 | /30 |
